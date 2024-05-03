@@ -1,0 +1,71 @@
+.header{
+    background-color: #132E40;
+    font-size: larger;
+}
+
+h1, h3{
+    color: #132E40;
+}
+
+h2{
+    color: #1D90B9;
+}
+
+/* Navbar Logo */
+.logo-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+}
+
+/* 'LE SAVOIR FAIRE' */
+.savoir{
+    color: #1D90B9;
+    font-weight: 400;
+}
+
+/* Icons next to the text */
+.small-images{
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+
+/* SHOW MORE 'Nos Services' */
+#show-more{
+    width: auto;
+    display: none;
+}
+
+/* SHOW MORE 'Button' */
+.button{
+    display: flex;
+    border-radius: 24px;
+    width: auto;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+    color: #1D90B9;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    margin: -20px -50px; 
+    position:relative;
+    left: 48%;
+}
+
+.button:hover{
+    background-color: #1D90B9;
+    color: #fff;
+}
+
+.btn-img{
+    padding-left: 10px;
+}
+
+
+
+
+
+
